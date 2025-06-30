@@ -36,12 +36,12 @@ N8N_SECURE_COOKIE=true
 N8N_USER_FOLDER=/data/n8n
 N8N_PORT=5678
 N8N_PROTOCOL=https
-N8N_HOST=n8n.gytech.com.pe
-WEBHOOK_URL=https://n8n.gytech.com.pe/
+N8N_HOST=n8n.dominio.algo
+WEBHOOK_URL=https://n8n.dominio.algo/
 NODE_ENV=production
 N8N_BASIC_AUTH_ACTIVE=true
-N8N_BASIC_AUTH_USER=admin
-N8N_BASIC_AUTH_PASSWORD=supersecreto
+N8N_BASIC_AUTH_USER=tuadminpapi
+N8N_BASIC_AUTH_PASSWORD=lamismadesiempre
 N8N_RUNNERS_ENABLED=true
 GENERIC_TIMEZONE=America/Lima
 EOF
